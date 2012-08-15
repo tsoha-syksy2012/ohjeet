@@ -1,2 +1,2 @@
-Ohjeet löytyvät tämän repon wikistä:
-[https://github.com/samin-tsoha/ohjeet/wiki]
+Ohjeet lï¿½ytyvï¿½t tï¿½mï¿½n repon wikistï¿½:
+[https://github.com/tsoha-syksy2012/ohjeet/wiki]
